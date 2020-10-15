@@ -20,4 +20,4 @@ The tools I enjoy to use:
 
 - 🌱 I’m currently learning: __Rust__
 - 👯 I’m always looking to collaborate on something.
-- 📫 How to reach me: [contacts](https://oschepkov.ru)
+- 📫 You can reach me at [my homepage](https://oschepkov.ru)
