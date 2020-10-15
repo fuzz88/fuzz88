@@ -18,6 +18,6 @@ The tools I enjoy to use:
 
 ---
 
-- 🌱 I’m currently learning: __Rust__
+- 🌱 I’m currently learning: *Rust*
 - 👯 I’m always looking to collaborate on something.
-- 📫 You can reach me at [my homepage](https://oschepkov.ru)
+- 📫 __Check out__ [my homepage](https://oschepkov.ru)
