@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**fuzz88/fuzz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [freelance](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%BE%D1%81%D1%82%D1%8C) full-stack developer from Irkutsk, Russia.
 
-Here are some ideas to get you started:
+Currently my main interest is to create modern interactive frontend experiences and fast, stable & scallable backend systems to solve upto vast business automation tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+The tools I enjoy to use:
+
+- Python (uvloop, asyncpg, sqlalchemy, django, sanic)
+- JavaScript (typescript, react, mobx)
+- PostgreSQL
+- RabbitMQ (amqp messaging)
+- Docker Engine (swarm, microk8s)
+- GitLab CI/CD
+- Ubuntu Linux
+
+---
+
+- 🌱 I’m currently learning: __Rust__
+- 👯 I’m always looking to collaborate on something.
+- 📫 How to reach me: [contacts](https://oschepkov.ru)
