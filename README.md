@@ -6,7 +6,7 @@ My interest is to craft an interactive user experiences, as well as fast, stable
 
 ---
 
-the tools i enjoy to use:
+the tools i have joy to use:
 
 - __python__ (*sanic*, *sqlalchemy*, *django*)
 - __javascript__ (*typescript*, *react*, *mobx*)
