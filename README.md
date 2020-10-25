@@ -8,13 +8,13 @@ My interest is to craft interactive experiences, as fast, stable & scalable syst
 
 The tools I enjoy to use:
 
-- Python (sqlalchemy, django, sanic)
-- JavaScript (typescript, react, mobx)
-- Lua (OpenResty, Lapis)
-- PostgreSQL, Redis, RabbitMQ, ZeroMQ
-- Docker (k8s in progress)
-- GitLab CI/CD
-- Ubuntu
+- __python__ (*sqlalchemy*, *django*, *sanic*)
+- __javascript__ (*typescript*, *react*, *mobx*)
+- __lua__ (*lapis*)
+- __docker__ (*k8s in progress*)
+- __postgresql__, __redis__, __rabbitmq__, __zmq__
+- __gitlab ci/cd__
+- __ubuntu__
 
 ---
 
