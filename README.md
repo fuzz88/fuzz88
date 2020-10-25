@@ -11,8 +11,8 @@ The tools I enjoy to use:
 - __python__ (*sqlalchemy*, *django*, *sanic*)
 - __javascript__ (*typescript*, *react*, *mobx*)
 - __lua__ (*lapis*)
-- __docker__ (*k8s in progress*)
 - __postgresql__, __redis__, __rabbitmq__, __zmq__
+- __docker__ (*k8s in progress*)
 - __gitlab ci/cd__
 - __ubuntu__
 
