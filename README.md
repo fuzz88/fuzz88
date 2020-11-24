@@ -8,7 +8,7 @@ My interest is to craft an interactive user experiences, as well as fast, stable
 
 the tools i have a joy to use:
 
-- __python__ (*sanic*, *sqlalchemy*, *django*)
+- __python__ (*sanic*, *fastapi*, *sqlalchemy*, *django*)
 - __javascript__ (*typescript*, *react*, *mobx*)
 - __lua__ (*lapis*)
 - __postgresql__, __redis__, __rabbitmq__
