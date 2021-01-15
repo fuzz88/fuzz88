@@ -16,7 +16,7 @@ the tools i have a joy to use:
 - __lua__ (*lapis*)
 - __postgresql__, __redis__, __rabbitmq__
 - __docker__ (*k8s in progress*)
-- __gitlab ci/cd__
+- __gitlab ci__
 - __ubuntu__
 
 ---
