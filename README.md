@@ -17,7 +17,7 @@ the tools i have a joy to use:
 - __postgresql__, __redis__, __rabbitmq__
 - __docker__ (*k8s in progress*)
 - __gitlab ci__
-- __arch, ubuntu-server, centos__
+- __arch, ubuntu-server, gentoo__
 
 ---
 
