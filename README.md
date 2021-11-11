@@ -21,6 +21,6 @@ the tools i have a joy to use:
 
 ---
 
-- 🌱 I’m currently learning to: *LÖVE*
+- 🌱 I’m currently learning to: [*LÖVE*](https://love2d.org/)
 - 👯 I’m always looking to collaborate on something.
 - 📫 __Check out__ [my homepage](https://oschepkov.ru)
