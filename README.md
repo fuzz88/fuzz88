@@ -13,8 +13,7 @@ toolset:
 - __javascript__ (*svelte*, *typescript*)
 - __lua__
 - __postgresql__, __redis__, __kafka__, __rabbitmq__
-- __docker__
-- __gitlab ci__
+- __docker__, __gitlab__
 - __arch, debian, gentoo__
 
 ---
