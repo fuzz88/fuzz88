@@ -4,7 +4,7 @@
 I am a software engineer from Angarsk, Russia.
 
 
-I am interesting in a process of crafting something providing interactive user experiences, as well as fast, stable and scalable backend systems serving these UIs.
+I am interesting in a process of crafting something providing interactive experiences, as well as fast, stable and scalable backend systems serving these UIs.
 
 </p>
 ---
