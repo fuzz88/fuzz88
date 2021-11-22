@@ -1,10 +1,7 @@
 ### Hello, World! 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 <p align="left">
-I am a software engineer from Angarsk, Russia.
-
-
-I am interesting in a process of crafting something providing interactive experiences, as well as fast, stable and scalable backend systems serving these UIs.
+My name is Ivan, and I am interesting in a process of crafting something providing interactive experiences, as well as fast, stable and scalable backend systems serving these UIs.
 
 </p>
 ---
