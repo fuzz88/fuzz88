@@ -6,18 +6,18 @@ My name is Ivan, and I am interesting in a process of crafting something providi
 </p>
 ---
 
-the tools i have a joy to use:
+Things that give me joy:
 
-- __python__ (*sanic*, *fastapi*, *falcon*, *sqlalchemy*, *django*)
-- __javascript__ (*svelte*, *typescript*, *react*, *mobx*)
-- __lua__ (*lapis*)
-- __postgresql__, __redis__, __rabbitmq__
-- __docker__ (*k8s in progress*)
+- __python__ (*flask*, *falcon*, *django*)
+- __javascript__ (*svelte*, *typescript*)
+- __lua__
+- __postgresql__, __redis__, __kafka__, __rabbitmq__
+- __docker__
 - __gitlab ci__
-- __arch, ubuntu-server, gentoo__
+- __arch, debian, gentoo__
 
 ---
 
 - 🌱 I’m currently learning to: [*LÖVE*](https://love2d.org/)
 - 👯 I’m always looking to collaborate on something.
-- 📫 __Check out__ [my homepage](https://oschepkov.ru)
+- 📫 [Homepage of Mine](https://oschepkov.ru)
