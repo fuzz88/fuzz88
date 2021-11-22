@@ -6,7 +6,7 @@ My name is Ivan, and I am interesting in a process of crafting something providi
 </p>
 ---
 
-Things that give me joy:
+toolset:
 
 - __python__ (*flask*, *falcon*, *django*)
 - __javascript__ (*svelte*, *typescript*)
