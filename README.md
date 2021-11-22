@@ -11,8 +11,7 @@ toolset:
 
 - __python__ (*flask*, *falcon*, *django*)
 - __javascript__ (*svelte*, *typescript*)
-- __lua__
-- __go__
+- __go__, __lua__
 - __postgresql__, __redis__, __kafka__, __rabbitmq__
 - __docker__, __gitlab__
 - __arch, debian, gentoo__
