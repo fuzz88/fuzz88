@@ -12,12 +12,13 @@ toolset:
 - __python__ (*flask*, *falcon*, *django*)
 - __javascript__ (*svelte*, *typescript*)
 - __lua__
+- __go__
 - __postgresql__, __redis__, __kafka__, __rabbitmq__
 - __docker__, __gitlab__
 - __arch, debian, gentoo__
 
 ---
 
-- 🌱 I’m currently learning to: [*Go*](https://golang.org/) [*LÖVE*](https://love2d.org/)
+- 🌱 I’m currently learning to: [*LÖVE*](https://love2d.org/)
 - 👯 I’m always looking to collaborate on something.
 - 📫 [Homepage](https://oschepkov.ru)
