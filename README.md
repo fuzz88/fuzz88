@@ -18,6 +18,6 @@ toolset:
 
 ---
 
-- 🌱 I’m currently learning to: [*LÖVE*](https://love2d.org/) and [*Go*](https://golang.org/)
+- 🌱 I’m currently learning to: [*Go*](https://golang.org/),[*LÖVE*](https://love2d.org/)
 - 👯 I’m always looking to collaborate on something.
 - 📫 [Homepage of Mine](https://oschepkov.ru)
