@@ -20,4 +20,4 @@ toolset:
 
 - 🌱 I’m currently learning to: [*craft interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 👯 I’m always looking to collaborate on something.
-- 📫 [My homepage](https://oschepkov.ru)
+- 📫 [Homepage of Mine](https://oschepkov.ru)
