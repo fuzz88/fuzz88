@@ -18,6 +18,6 @@ toolset:
 
 ---
 
-- 🌱 I’m currently learning to: [*craft intepreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
+- 🌱 I’m currently learning to: [*craft interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 👯 I’m always looking to collaborate on something.
-- 📫 [homepage](https://oschepkov.ru)
+- 📫 [Visit my homepage](https://oschepkov.ru)
