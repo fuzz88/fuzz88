@@ -11,7 +11,7 @@ toolset:
 
 - __python__ (*fastapi*, *django*, *sanic*, *falcon*)
 - __javascript__ (*svelte*, *typescript*)
-- __go__, __c__, __elixir (in porgress) __
+- __go__, __c__, __elixir__*(in porgress)*
 - __postgresql__, __redis__, __kafka__, __rabbitmq__, __edgedb__
 - __docker__, __gitlab__, __github__
 - __arch, debian, openbsd, freebsd__
