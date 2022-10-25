@@ -9,15 +9,15 @@ I am interesting in a process of crafting interactive human being experiences as
 
 toolset:
 
-- __python__ (*flask*, *falcon*, *django*)
+- __python__ (*fastapi*, *django*, *sanic*, *falcon*)
 - __javascript__ (*svelte*, *typescript*)
-- __go__, __lua__
-- __postgresql__, __redis__, __kafka__, __rabbitmq__
-- __docker__, __gitlab__
-- __arch, debian, gentoo__
+- __go__, __c__, __elixir (in porgress) __
+- __postgresql__, __redis__, __kafka__, __rabbitmq__, __edgedb__
+- __docker__, __gitlab__, __github__
+- __arch, debian, openbsd, freebsd__
 
 ---
 
-- 🌱 I’m currently learning to: [*LÖVE*](https://love2d.org/)
+- 🌱 I’m currently learning:[*craft intepreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 👯 I’m always looking to collaborate on something.
-- 📫 [Homepage](https://oschepkov.ru)
+- 📫 [homepage](https://oschepkov.ru)
