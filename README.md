@@ -11,7 +11,7 @@ toolset:
 
 - __python__ (*fastapi*, *django*, *sanic*, *falcon*)
 - __javascript__ (*svelte*, *typescript*)
-- __c__*(delving into libc docs and Stallman's C Reference)*, __elixir__*(a little)*
+- __c__ *(delving into libc docs and Stallman's C Reference)
 - __postgresql__, __redis__, __kafka__, __rabbitmq__, __edgedb__
 - __docker__, __gitlab__, __github__
 - __arch, debian, openbsd, freebsd__
