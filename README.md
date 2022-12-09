@@ -12,9 +12,9 @@ toolset:
 - __python__ (*fastapi*, *django*, *sanic*, *falcon*)
 - __javascript__ (*svelte*, *typescript*)
 - __c__ *(libc, microcontrollers)*
-- __postgresql__, __redis__, __kafka__, __rabbitmq__, __edgedb__
-- __docker__, __gitlab__, __github__
-- __arch, debian, openbsd, freebsd__
+- __postgresql__, __redis__, __rabbitmq__
+- __docker__, __gitlab__
+- __gentoo__, __openbsd, __freebsd__
 
 ---
 
