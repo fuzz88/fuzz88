@@ -9,7 +9,7 @@ I am interesting in a process of crafting interactive human being experiences as
 
 toolset:
 
-- __python__ (*fastapi*, *django*, *sanic*, *falcon*)
+- __python__ <*fastapi*, *django*, *sanic*, *falcon*>
 - __javascript__ (*svelte*, *typescript*)
 - __c__ *(libc, microcontrollers)*
 - __postgresql__, __redis__, __rabbitmq__
