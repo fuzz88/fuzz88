@@ -14,7 +14,7 @@ toolset:
 - __c__ *(libc, microcontrollers)*
 - __postgresql__, __redis__, __rabbitmq__
 - __docker__, __gitlab__
-- __gentoo__, __openbsd, __freebsd__
+- __gentoo__, __openbsd__, __freebsd__
 
 ---
 
