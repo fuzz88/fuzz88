@@ -18,5 +18,5 @@ tools:
 
 ---
 
-- 🌱 [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
+- 🌱 Current hobby: [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 📫 [https://oschepkov.ru](https://oschepkov.ru)
