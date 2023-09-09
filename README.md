@@ -8,7 +8,7 @@ I am interested in a process of crafting interactive human being experiences as 
 ---
 
 tools:
-- __golang__
+- __go__
 - __python__ <*django*, *fastapi*, *sanic*, *falcon*>
 - __javascript__ <*svelte*, *ts*>
 - __c__ <*libc*, shaders>
