@@ -18,6 +18,5 @@ tools:
 
 ---
 
-- 🌱 I’m currently learning to: [*craft interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
-- 👯 Let's collaborate on something.
+- 🌱 WIP: [*craft interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 📫 [https://oschepkov.ru](https://oschepkov.ru)
