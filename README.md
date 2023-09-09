@@ -18,5 +18,5 @@ tools:
 
 ---
 
-- 🌱 Still fascinated by: [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
+- 🌱 Still fascinated by [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
 - 📫 [https://oschepkov.ru](https://oschepkov.ru)
