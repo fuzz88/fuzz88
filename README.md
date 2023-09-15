@@ -4,8 +4,7 @@
 <p align="left">
 <b><i>I am fuzz88: software engineer and UX designer.</i></b>
 </p>
-<p>
-My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.
+<p><i>My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i>
 </p>
 <p>
 <i>Sharing and adopting bright and beautiful ideas is my favourite activity at any time.</i>
@@ -13,9 +12,9 @@ My name is Ivan (Vanya) and I am interested in a process of crafting interactive
 
 ---
 
-tools:
+weapons of choice:
 - __go__
-- __python__ <*django*, *fastapi*, *sanic*, *falcon*>
+- __python__ <*sanic*, *falcon*, *django*, *fastapi*>
 - __javascript__ <*svelte*, *ts*>
 - __c__ <*libc*, shaders>
 - __postgresql__, __redis__, __rabbitmq__
