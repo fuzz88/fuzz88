@@ -8,7 +8,7 @@
 My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.
 </p>
 <p>
-<i>Stealing and adopting ideas is my favorite anytime activity.</i>
+<i>Sharing and adopting bright and beautiful ideas is my favourite activity at any time.</i>
 </p>
 
 ---
