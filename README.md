@@ -17,13 +17,6 @@ weapons of choice:
 - __python__ <*sanic*, *django*, *falcon*, *fastapi*>
 - __javascript__ <*svelte*, *ts*>
 
-catching ideas from:
-
-- __go__
-- __c__ <*libc*, *GLSL*>
-- __ocaml__
-
-
 ---
 
 - 🌱 Still fascinated by [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
