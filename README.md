@@ -13,10 +13,18 @@
 ---
 
 weapons of choice:
-- __go__
-- __python__ <*sanic*, *falcon*, *django*, *fastapi*>
+
+- __python__ <*sanic*, *django*, *falcon*, *fastapi*>
 - __javascript__ <*svelte*, *ts*>
-- __c__ <*libc*, shaders>
+
+learning:
+
+- __go__
+- __c__ <*libc*, *GLSL*>
+- __ocaml__
+
+  tooling:
+
 - __postgresql__, __redis__, __rabbitmq__
 - __docker__, __gitlab__, __k8s__
 - __gentoo__, __debian__, __freebsd__
