@@ -17,17 +17,12 @@ weapons of choice:
 - __python__ <*sanic*, *django*, *falcon*, *fastapi*>
 - __javascript__ <*svelte*, *ts*>
 
-learning:
+catching ideas from:
 
 - __go__
 - __c__ <*libc*, *GLSL*>
 - __ocaml__
 
-  tooling:
-
-- __postgresql__, __redis__, __rabbitmq__
-- __docker__, __gitlab__, __k8s__
-- __gentoo__, __debian__, __freebsd__
 
 ---
 
