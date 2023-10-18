@@ -14,7 +14,7 @@
 
 weapons of choice:
 
-- __python__ <*sanic*, *django*, *falcon*, *fastapi*>
+- __python__ <*sanic*, *django*, *fastapi*, *falcon*>
 - __javascript__ <*svelte*, *ts*>
 
 ---
