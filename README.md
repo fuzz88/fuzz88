@@ -16,7 +16,7 @@ weapons of choice:
 
 - __python__ <*flask*, *sanic*, *django*, *fastapi*, *falcon*>
 - __javascript__ <*typescript*, *svelte*>
-- __golang__, __c__
+- __golang__, __c__, __bits of rust__
 
 ---
 
