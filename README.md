@@ -12,8 +12,8 @@
 
 ---
 
-using __python__ as main tool
-exploring stuff in __typescript__, __golang__, __rust__, __c__
+- using __python__ as main tool
+- exploring stuff in __typescript__, __golang__, __rust__, __c__
 
 ---
 
