@@ -13,7 +13,7 @@
 ---
 
 - using __python__ as the main tool
-- exploring stuff in __typescript__, __golang__, __rust__, __c__
+- exploring stuff in __javascript__, __elixir__, __golang__, __c__
 
 ---
 
