@@ -3,7 +3,7 @@
 
 <p align="left"><b>I am fuzz88: software engineer and UX designer.</b></p>
 <p>Things I like to do: <b>refactor stuff, prototyping.</b></p>
-<p>Sharing and adopting bright and beautiful ideas is my favorite activity.</p>
+<p>Adopting bright and beautiful ideas is my favorite activity.</p>
 
 ---
 
