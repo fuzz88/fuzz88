@@ -13,7 +13,8 @@
 ---
 
 - using __python__ as the weapon of choice
-- exploring stuff in __c__, __rust__, __golang__ and __javascript__, 
+- exploring stuff in __c__, __rust__, __golang__, __javascript__
+- staying familiar with __redis__, __postgres__, __clickhouse__, __kafka__
 
 ---
 
