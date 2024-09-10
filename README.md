@@ -1,5 +1,4 @@
 ## Hello, World! 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="right"><b>I am fuzz88: software engineer and UX designer</b></p>
 
