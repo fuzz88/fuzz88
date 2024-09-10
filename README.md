@@ -13,7 +13,7 @@
 ---
 
 - using __python__ as the weapon of choice
-- exploring stuff in __c__, __javascript__, __golang__, __elixir__
+- exploring stuff in __c__, __golang__, __javascript__
 
 ---
 
