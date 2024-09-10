@@ -4,8 +4,6 @@
 <p align="left">
 <b>I am fuzz88: software engineer and UX designer.</b>
 </p>
-<p>My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</p>
-<p><i>Sharing and adopting bright and beautiful ideas are my favourite activities at any time.</i></p>
 
 ---
 
