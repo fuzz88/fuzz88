@@ -1,9 +1,9 @@
 ## Hello, World! 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-<p align="left">
-<b>I am fuzz88: software engineer and UX designer.</b>
-</p>
+<p align="left"><b>I am fuzz88: software engineer and UX designer.</b></p>
+<p>Things I like to do: <b>delve into codebases, refactor stuff, prototyping.</b></p>
+<p>Sharing and adopting bright and beautiful ideas is my favorite activity.</p>
 
 ---
 
