@@ -3,7 +3,7 @@
 
 <p align="right"><b>I am fuzz88: software engineer and UX designer</b></p>
 
-<p align="right"><i>I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i></p>
+<p align="right"><i>My interest is crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i></p>
 
 ---
 
