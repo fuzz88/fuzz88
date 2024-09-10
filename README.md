@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"><b>I am fuzz88: software engineer and UX designer.</b></p>
-<p>Things I like to do: <b>refactor stuff, prototyping.</b></p>
-<p>Adopting bright and beautiful ideas is my favorite activity.</p>
+
+<p>I am mostly prototyping and refactoring stuff for money.</p>
 
 ---
 
-- using __python__ as the weapon of choice
-- exploring stuff in __c__, __rust__, __golang__, __javascript__
-- staying familiar with __redis__, __postgres__, __clickhouse__, __kafka__
+- still using __python__ as the primary tool
+- love exploring ideas in __c__, __go__, __rust__, __javascript__, __ocaml__
+- keep staying familiar with __redis__, __postgres__, __clickhouse__, __kafka__
 
 ---
 
