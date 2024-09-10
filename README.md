@@ -1,9 +1,9 @@
 ## Hello, World! 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-<p align="left"><b>I am fuzz88: software engineer and UX designer</b></p>
+<p align="right"><b>I am fuzz88: software engineer and UX designer</b></p>
 
-<p><i>My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i></p>
+<p align="right"><i>My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i></p>
 
 #### prototyping and refactoring stuff.
 
