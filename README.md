@@ -8,6 +8,8 @@
 ---
 
 <p align="left">
+
+#### Making money
   
 - using __python__ at work
 - exploring ideas in __c__, __go__, __rust__, __javascript__, __ocaml__
