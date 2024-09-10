@@ -5,11 +5,15 @@
 
 <p align="right"><i>My name is Ivan (Vanya) and I am interested in a process of crafting interactive human being experiences as well as fast, stable and scalable backend systems serving those UIs.</i></p>
 
-#### prototyping and refactoring stuff.
+---
 
+<p align="left">
+  
 - using __python__ as the primary tool
 - exploring ideas in __c__, __go__, __rust__, __javascript__, __ocaml__
 - staying familiar with __redis__, __postgres__, __clickhouse__, __kafka__
+
+</p>
 
 ---
 
