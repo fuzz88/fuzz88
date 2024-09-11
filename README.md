@@ -5,7 +5,7 @@
 
 - using __python__ at work
 - exploring ideas in __c__, __go__, __rust__, __javascript__, __ocaml__
-- staying familiar with __redis__, __postgres__, __clickhouse__, __kafka__
+- staying familiar with __postgres__, __clickhouse__, __kafka__
 
 ---
 
