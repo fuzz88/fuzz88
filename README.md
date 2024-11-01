@@ -9,4 +9,4 @@
 
 ---
 
-- 🌱 still fascinated by [*Crafting interpreters*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
+- 🌱 still fascinated by [*"Crafting interpreters"*](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
