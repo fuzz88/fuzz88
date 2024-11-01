@@ -4,7 +4,7 @@
 <p align="left"><b>I am fuzz88: software engineer and UX designer</b></p>
 
 - using __python__ at work
-- exploring ideas in __c__, __go__, __js__
+- exploring ideas in __c__, __js__, __go__, 
 - staying familiar with __postgres__, __redis__, __clickhouse__, __rabbitmq__, __kafka__
 
 ---
